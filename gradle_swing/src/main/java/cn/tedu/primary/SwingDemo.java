@@ -7,7 +7,7 @@ package cn.tedu.primary;
  *  
  * </pre>
  */
-public class Demo {
+public class SwingDemo {
     public static void main(String[] args){
         System.out.println("gradle_swing===Demo");
     }

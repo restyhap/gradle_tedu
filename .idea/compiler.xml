@@ -2,10 +2,26 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="com.resty.gr.main" target="1.8" />
+      <module name="com.resty.gr.test" target="1.8" />
+      <module name="com.resty.gradel.main" target="1.8" />
+      <module name="com.resty.gradel.test" target="1.8" />
+      <module name="com.resty.gradle_.main" target="1.8" />
+      <module name="com.resty.gradle_.test" target="1.8" />
       <module name="com.resty.gradle_cco.main" target="1.8" />
       <module name="com.resty.gradle_cco.test" target="1.8" />
       <module name="com.resty.gradle_spring.main" target="1.8" />
       <module name="com.resty.gradle_spring.test" target="1.8" />
+      <module name="com.resty.gradle_te.main" target="1.8" />
+      <module name="com.resty.gradle_te.test" target="1.8" />
+      <module name="gr.gradle_cco.main" target="1.8" />
+      <module name="gr.gradle_cco.test" target="1.8" />
+      <module name="gradel.gradle_cco.main" target="1.8" />
+      <module name="gradel.gradle_cco.test" target="1.8" />
+      <module name="gradle_.gradle_cco.main" target="1.8" />
+      <module name="gradle_.gradle_cco.test" target="1.8" />
+      <module name="gradle_te.gradle_cco.main" target="1.8" />
+      <module name="gradle_te.gradle_cco.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

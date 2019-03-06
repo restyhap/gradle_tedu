@@ -8,6 +8,9 @@ package cn.tedu.primary;
  * </pre>
  */
 public class SwingDemo {
+    public void say(){
+        System.out.println("test");
+    }
     public static void main(String[] args){
         System.out.println("gradle_swing===Demo");
     }

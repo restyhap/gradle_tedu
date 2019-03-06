@@ -12,6 +12,8 @@
       <module name="com.resty.gradle_cco.test" target="1.8" />
       <module name="com.resty.gradle_spring.main" target="1.8" />
       <module name="com.resty.gradle_spring.test" target="1.8" />
+      <module name="com.resty.gradle_swing.main" target="1.8" />
+      <module name="com.resty.gradle_swing.test" target="1.8" />
       <module name="com.resty.gradle_te.main" target="1.8" />
       <module name="com.resty.gradle_te.test" target="1.8" />
       <module name="gr.gradle_cco.main" target="1.8" />

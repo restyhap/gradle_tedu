@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jl1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gradle_swing/src/main/resources/jl1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle_swing/src/main/resources/mp3spi1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gradle_swing/src/main/resources/tritonus_share.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
